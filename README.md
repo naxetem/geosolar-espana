@@ -153,6 +153,14 @@ Acceso directo a las calculadoras y fichas técnicas de los 60 municipios más p
 
 ---
 
+## 🌱 Proyecto Climático Hermano: Huerto y Clima España
+
+- 🌐 **Web oficial:** [**https://huerto-clima.pages.dev/**](https://huerto-clima.pages.dev/)
+- 📦 **Repositorio de documentación:** [**github.com/naxetem/huerto-clima**](https://github.com/naxetem/huerto-clima)
+- **Contenido:** Calendarios de siembra de 22 cultivos hortícolas, fechas seguras de última helada primaveral (percentil 90 a 0 °C y 2 °C con datos de AEMET OpenData y ERA5) y necesidades mensuales de riego ($ET_0$ FAO-56) para los **465 municipios y 52 provincias** de España.
+
+---
+
 ## 📄 Aviso Legal y Propiedad Intelectual
 
 © **GeoSolar España** ([geosolar-espana.pages.dev](https://geosolar-espana.pages.dev/)). Todos los derechos reservados.
